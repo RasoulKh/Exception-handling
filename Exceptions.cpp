@@ -99,14 +99,8 @@ int main()
     }
     catch (CustomException &e) {
         cout << e.what() << endl;
-
     }
 
     
-
-
-
-
-
     system("pause>null");
 }
